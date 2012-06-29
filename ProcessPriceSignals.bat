@@ -1,0 +1,1 @@
+python "C:\\Documents and Settings\\jonesr\\My Documents\\My Dropbox\\Code\\ProcessPriceSignals\\ProcessPriceSignals.py"
